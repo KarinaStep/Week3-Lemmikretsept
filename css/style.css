@@ -1,0 +1,53 @@
+body{
+    background-color: blanchedalmond;
+}
+
+.heading {
+    text-align: center;
+}
+
+.recipe-heading {
+    color: darkred;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+
+img {
+    width: 400px;
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: darkmagenta;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    color: darkmagenta;
+}
+
+.instructions ol{
+    margin: 0 auto;
+    width: 75%;
+}
+
+.link {
+    text-align: center;
+}
+
+
+
+.footer {
+    color: darkmagenta;
+    text-align: center;
+}
+
